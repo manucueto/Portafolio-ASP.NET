@@ -1,0 +1,62 @@
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\bin\Debug\net7.0\appsettings.json
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\bin\Debug\net7.0\Portafolio.staticwebassets.runtime.json
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\bin\Debug\net7.0\Portafolio.exe
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\bin\Debug\net7.0\Portafolio.deps.json
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\bin\Debug\net7.0\Portafolio.runtimeconfig.json
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\bin\Debug\net7.0\Portafolio.dll
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\bin\Debug\net7.0\Portafolio.pdb
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.csproj.AssemblyReference.cache
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.AssemblyInfoInputs.cache
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.AssemblyInfo.cs
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.csproj.CoreCompileInputs.cache
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.RazorAssemblyInfo.cache
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.RazorAssemblyInfo.cs
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\staticwebassets\msbuild.Portafolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\staticwebassets\msbuild.build.Portafolio.props
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Portafolio.props
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Portafolio.props
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\scopedcss\bundle\Portafolio.styles.css
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\scopedcss\projectbundle\Portafolio.bundle.scp.css
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.dll
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\refint\Portafolio.dll
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.pdb
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.genruntimeconfig.cache
+C:\Users\Manuel Cueto\OneDrive\Escritorio\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\ref\Portafolio.dll
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\bin\Debug\net7.0\appsettings.json
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\bin\Debug\net7.0\Portafolio.staticwebassets.runtime.json
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\bin\Debug\net7.0\Portafolio.exe
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\bin\Debug\net7.0\Portafolio.deps.json
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\bin\Debug\net7.0\Portafolio.runtimeconfig.json
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\bin\Debug\net7.0\Portafolio.dll
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\bin\Debug\net7.0\Portafolio.pdb
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.csproj.AssemblyReference.cache
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.AssemblyInfoInputs.cache
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.AssemblyInfo.cs
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.csproj.CoreCompileInputs.cache
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.RazorAssemblyInfo.cache
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.RazorAssemblyInfo.cs
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\staticwebassets\msbuild.Portafolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\staticwebassets\msbuild.build.Portafolio.props
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Portafolio.props
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Portafolio.props
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\scopedcss\bundle\Portafolio.styles.css
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\scopedcss\projectbundle\Portafolio.bundle.scp.css
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.dll
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\refint\Portafolio.dll
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.pdb
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\Portafolio.genruntimeconfig.cache
+C:\Users\Manuel Cueto\OneDrive\Escritorio\Proyectos Programación\ASP.net Portafolio\Programa\Portafolio\obj\Debug\net7.0\ref\Portafolio.dll
